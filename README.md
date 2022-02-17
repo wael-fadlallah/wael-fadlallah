@@ -1,11 +1,15 @@
 ### Hi there 👋
+- 📫 How to reach me: wael.fudlallah@gmail.com
+ 
+<img src="https://profile-counter.glitch.me/wael-Fadlallah/count.svg"/>
+
 
 <!--
 **wael-Fadlallah/wael-Fadlallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ç...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
