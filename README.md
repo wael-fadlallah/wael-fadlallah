@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wael-fadlallah&label=Profile%20views&color=0e75b6&style=flat" alt="wael-fadlallah" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wael-fadlallah" alt="wael-fadlallah" /></a> </p>
+
 - 🔭 I’m currently working on [Faker](https://github.com/wael-Fadlallah/faker)
 
-- 💬 Ask me about **Javascript, Typescript, React, NodeJs and Python**
+- 💬 Ask me about **Javascript,Typescript, React, NodeJs and Python**
 
 - 📫 How to reach me **wael.fudlallah@gmail.com**
 
@@ -20,4 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wael-fadlallah&show_icons=true&locale=en&layout=compact" alt="wael-fadlallah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wael-fadlallah&show_icons=true&locale=en" alt="wael-fadlallah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wael-fadlallah&" alt="wael-fadlallah" /></p>
 
