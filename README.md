@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Faker](https://github.com/wael-Fadlallah/faker)
 
-- 💬 Ask me about **Javascript,Typescript, React, NodeJs and Python**
+- 💬 Ask me about **Javascript,Typescript, React, NodeJs**
 
 - 📫 How to reach me **wael.fudlallah@gmail.com**
 
