@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wael-fadlallah" alt="wael-fadlallah" /></a> </p>
 
-- 🔭 I’m currently working on [Faker](https://github.com/wael-Fadlallah/faker)
+- 🔭 I’m currently [Crafting an interpreter ](https://github.com/wael-fadlallah/crafting-interpreters) for fun
 
 - 💬 Ask me about **Javascript,Typescript, React, NodeJs**
 
